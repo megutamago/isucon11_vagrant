@@ -19,6 +19,8 @@ source provision.sh [Subnet] [IP]
 - IPアドレスの固定
 - 引数は,「サブネット」、「固定するIP」を指定
 
+###動作確認はまだです。かたじけない
+
 # References
 - VirtualBox Install
 https://sukkiri.jp/technologies/virtualizers/virtualbox/virtualbox-win_install.html<br>
