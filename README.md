@@ -8,13 +8,23 @@ isucon11_vagrant_github,<br>
 <br>
 
 # Usage
-「vagrant ssh」でサーバーの中で実行
+まず初めに
 ```
 git clone https://github.com/megutamago/isucon11_vagrant.git
 cd isucon11_vagrant
+vagrant up
+
+#約30分
+```
+
+立ち上がったらサーバーの中に入り、次を実行
+```
+# isucon11_vagrantフォルダで
+vagrant ssh
+
 source provision.sh [IP/Prefix length] [Default Gateway]
 ```
-上手くいけば、VSCodeからのsshなり、ssh接続可能に<br>
+上手くいけば、VSCodeからsshなり、ssh接続が可能に
 <br>
 
 
