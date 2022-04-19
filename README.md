@@ -9,7 +9,7 @@ isucon11_vagrant_github,<br>
 # Usage
 ### 「vagrant ssh」でサーバーの中で実行↓
 ```
-git clone 
+git clone https://github.com/megutamago/isucon11_vagrant.git
 source provision.sh [Subnet] [IP]
 ```
 
