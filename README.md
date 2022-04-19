@@ -11,7 +11,7 @@ isucon11_vagrant_github,<br>
 ```
 git clone https://github.com/megutamago/isucon11_vagrant.git
 cd isucon11_vagrant
-source provision.sh [IP/Prefix length] [Subnet]
+source provision.sh [IP/Prefix length] [Default Gateway]
 ```
 
 【provision.shの内容】
