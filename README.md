@@ -19,7 +19,7 @@ vagrant up
 
 <br>
 <br>
-立ち上がったらサーバーの中に入り、次を実行
+立ち上がったらサーバーの中に入り、次を実行<br>
 ```
 # isucon11_vagrantフォルダで
 vagrant ssh
