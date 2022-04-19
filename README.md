@@ -4,7 +4,7 @@ ISUCON11 Provisioning
 2. 参考文献として<br>
 　virtulaboxのインストール,<br>
 　Vagrantのインストール,<br>
-   +α,<br>
+   "+α",<br>
 を載せた。
 
 # Usage
