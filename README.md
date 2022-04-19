@@ -19,14 +19,17 @@ vagrant up
 
 <br>
 <br>
-立ち上がったらサーバーの中に入り、次を実行<br>
+
+- 立ち上がったらサーバーの中に入り、次を実行
+
 ```
 # isucon11_vagrantフォルダで
 vagrant ssh
 
 source provision.sh [IP/Prefix length] [Default Gateway]
 ```
-上手くいけば、VSCodeからsshなり、ssh接続が可能に
+
+- 上手くいけば、VSCodeからsshなり、ssh接続が可能に
 <br>
 <br>
 
