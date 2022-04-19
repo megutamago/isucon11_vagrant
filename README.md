@@ -14,10 +14,9 @@ git clone https://github.com/megutamago/isucon11_vagrant.git
 cd isucon11_vagrant
 source provision.sh [IP/Prefix length] [Default Gateway]
 ```
-
-<br>
 上手くいけば、VSCodeからのsshなり、ssh接続可能に<br>
 <br>
+
 
 【provision.shの内容】
 - ユーザーのパスワード設定
