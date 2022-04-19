@@ -8,10 +8,10 @@ isucon11_vagrant_github,<br>
 
 # Usage
 ### 「vagrant ssh」でサーバーの中で実行↓
-'''
-git clone ...
+```ruby
+git clone 
 source provision.sh [Subnet] [IP]
-'''
+```
 
 【provision.shの内容】
 - ユーザーのパスワード設定
