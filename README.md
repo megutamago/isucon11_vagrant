@@ -5,6 +5,7 @@ ISUCON11 Provisioning
 virtulaboxのインストール,<br>
 Vagrantのインストール,<br>
 isucon11_vagrant_github,<br>
+<br>
 
 # Usage
 「vagrant ssh」でサーバーの中で実行
@@ -14,13 +15,17 @@ cd isucon11_vagrant
 source provision.sh [IP/Prefix length] [Default Gateway]
 ```
 
+<br>
 上手くいけば、VSCodeからのsshなり、ssh接続可能に<br>
+<br>
 
 【provision.shの内容】
 - ユーザーのパスワード設定
 - SSHでのパスワード認証の設定
 - IPアドレスの固定
 - 引数は,「サブネット」、「固定するIP」を指定
+
+<br>
 
 ### ※動作確認はまだです。かたじけない
 
