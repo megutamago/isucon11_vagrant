@@ -1,7 +1,7 @@
 # Overview
 ISUCON11 Provisioning
-・Vagrantで環境構築したサーバーのIPを固定するシェルスクリプト
-・参考文献として
+1. Vagrantで環境構築したサーバーのIPを固定するシェルスクリプト
+2. 参考文献として
 　github,
 　virtulaboxのインストール,
 　Vagrantのインストール,
