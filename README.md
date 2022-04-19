@@ -14,6 +14,8 @@ cd isucon11_vagrant
 source provision.sh [IP/Prefix length] [Default Gateway]
 ```
 
+上手くいけば、VSCodeからのsshなり、ssh接続可能に<br>
+
 【provision.shの内容】
 - ユーザーのパスワード設定
 - SSHでのパスワード認証の設定
