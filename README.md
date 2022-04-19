@@ -17,6 +17,8 @@ vagrant up
 #約30分
 ```
 
+<br>
+<br>
 立ち上がったらサーバーの中に入り、次を実行
 ```
 # isucon11_vagrantフォルダで
@@ -26,7 +28,7 @@ source provision.sh [IP/Prefix length] [Default Gateway]
 ```
 上手くいけば、VSCodeからsshなり、ssh接続が可能に
 <br>
-
+<br>
 
 【provision.shの内容】
 - ユーザーのパスワード設定
