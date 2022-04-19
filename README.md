@@ -21,11 +21,9 @@ source provision.sh [Subnet] [IP]
 - 引数は,「サブネット」、「固定するIP」を指定
 
 # References
-
-
-#VirtualBox Install<br>
-https://sukkiri.jp/technologies/virtualizers/virtualbox/virtualbox-win_install.html
-#Vagrant Install<br>
-https://weblabo.oscasierra.net/install-vagrant-onto-windows/
-isucon11_vagrant_github<br>
-https://github.com/matsuu/vagrant-isucon/tree/master/isucon11-qualifier-standalone
+- VirtualBox Install
+https://sukkiri.jp/technologies/virtualizers/virtualbox/virtualbox-win_install.html<br>
+- Vagrant Install
+https://weblabo.oscasierra.net/install-vagrant-onto-windows/<br>
+- isucon11_vagrant_github
+https://github.com/matsuu/vagrant-isucon/tree/master/isucon11-qualifier-standalone<br>
