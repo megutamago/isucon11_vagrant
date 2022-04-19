@@ -23,9 +23,10 @@ vagrant up
 - 立ち上がったらサーバーの中に入り、次を実行
 
 ```
-# isucon11_vagrantフォルダで
 vagrant ssh
 
+git clone https://github.com/megutamago/isucon11_vagrant.git
+cd isucon11_vagrant
 source provision.sh [IP/Prefix length] [Default Gateway]
 ```
 
