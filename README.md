@@ -4,7 +4,7 @@ ISUCON11 Provisioning
 2. 参考文献として<br>
 　virtulaboxのインストール,<br>
 　Vagrantのインストール,<br>
-  isucon11 vagrant github,<br>
+  isucon11_vagrant_github,<br>
 のURLを載せた。
 
 # Usage
@@ -22,9 +22,10 @@ source provision.sh [Subnet] [IP]
 
 # References
 
-#ISUCON11 Github vagrant bench
-https://github.com/matsuu/vagrant-isucon/tree/master/isucon11-qualifier-standalone
-#VirtualBox Install
+
+#VirtualBox Install<br>
 https://sukkiri.jp/technologies/virtualizers/virtualbox/virtualbox-win_install.html
-#Vagrant Install
+#Vagrant Install<br>
 https://weblabo.oscasierra.net/install-vagrant-onto-windows/
+isucon11_vagrant_github<br>
+https://github.com/matsuu/vagrant-isucon/tree/master/isucon11-qualifier-standalone
