@@ -26,16 +26,6 @@ vagrant up
 <br>
 <br>
 
-【provision.shの内容】
-- ユーザーのパスワード設定
-- SSHでのパスワード認証の設定
-- IPアドレスの固定
-- 引数は,「サブネット」、「固定するIP」を指定
-
-<br>
-
-### ※動作確認はまだです。かたじけない
-
 # References
 
 - VirtualBox Install
