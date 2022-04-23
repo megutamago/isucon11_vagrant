@@ -11,11 +11,11 @@ isucon11_vagrant_github,<br>
 # Usage
 まず初めに
 
-Vagrantfileのpublic_networkの後ろに「, ip: "192.168.200.33"」を追加する
-
 ```
 git clone https://github.com/megutamago/isucon11_vagrant.git
 cd isucon11_vagrant
+
+#Vagrantfileのpublic_networkの後ろに「, ip: "192.168.200.33"」を追加する
 
 vagrant up
 
