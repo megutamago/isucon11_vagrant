@@ -19,7 +19,6 @@ cd isucon11_vagrant
 
 vagrant up
 
-#約30分
 ```
 
 <br>
