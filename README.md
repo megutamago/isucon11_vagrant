@@ -1,8 +1,7 @@
 # Overview
 ISUCON11 Provisioning
 1. Vagrantでサーバを立ち上げる
-2. Vagrantで環境構築したサーバーのIPを固定などするシェルスクリプト
-3. 必要要件、各インストールの参考文献<br>
+2. 必要要件、各インストールの参考文献<br>
 virtulaboxのインストール,<br>
 Vagrantのインストール,<br>
 isucon11_vagrant_github,<br>
