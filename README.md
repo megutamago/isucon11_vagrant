@@ -3,7 +3,8 @@ ISUCON11 Provisioning
 1. Vagrantでサーバを立ち上げる
 2. 必要要件、各インストールの参考文献<br>
 virtulaboxのインストール,<br>
-Vagrantのインストール,<br>
+Vagrantのインストール<br>
+3. isucon11 benchmark 実行<br>
 isucon11_vagrant_github,<br>
 <br>
 
