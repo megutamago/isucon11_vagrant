@@ -15,6 +15,7 @@ isucon11_vagrant_github,<br>
 git clone https://github.com/megutamago/isucon11_vagrant.git
 cd isucon11_vagrant
 
+#固定IPにするなら
 #Vagrantfileのpublic_networkの後ろに(例として)「, ip: "192.168.1.33"」を追加する
 
 vagrant up
